@@ -1,0 +1,22 @@
+\contentsline {section}{\numberline {1}Random signals and stochastic processes}{2}
+\contentsline {subsection}{\numberline {1.1}Statistical Estimation}{2}
+\contentsline {subsection}{\numberline {1.2}Stochastic Processes}{5}
+\contentsline {subsection}{\numberline {1.3}Estimation of probability distributions}{8}
+\contentsline {section}{\numberline {2}Linear Stochastic Modelling}{9}
+\contentsline {subsection}{\numberline {2.1}ACF of Uncorrelated Sequences}{9}
+\contentsline {subsection}{\numberline {2.2}ACF of Correleated Sequences}{10}
+\contentsline {subsection}{\numberline {2.3}Cross-Correlation Function}{10}
+\contentsline {subsection}{\numberline {2.4}Autoregressive Modelling}{11}
+\contentsline {subsection}{\numberline {2.5}Real World Signals: ECG from iAmp Experiment}{14}
+\contentsline {section}{\numberline {3}Spectral Estimation and Modelling}{18}
+\contentsline {subsection}{\numberline {3.1}Averaged Periodogram Estimate}{19}
+\contentsline {subsection}{\numberline {3.2}Spectrum of Autoregressive Process}{20}
+\contentsline {subsection}{\numberline {3.3}Spectrogram for Time-Frequency Analysis: Dial Tone Pad}{22}
+\contentsline {subsection}{\numberline {3.4}Real World Signals: Respirator Sinus Arrhythmia from RR-Intervals}{26}
+\contentsline {section}{\numberline {4}Optimal Filtering - Fixed and Adaptive}{28}
+\contentsline {subsection}{\numberline {4.1}Wiener Filter}{28}
+\contentsline {subsection}{\numberline {4.2}Least Mean Square (LMS) Algorithm}{29}
+\contentsline {subsection}{\numberline {4.3}Gear Shifting}{31}
+\contentsline {subsection}{\numberline {4.4}Identification of AR Process}{32}
+\contentsline {subsection}{\numberline {4.5}Dealing With Computational Complexity: Sign Algorithms}{33}
+\contentsline {section}{\numberline {5}A Real World Case Study: Vinyl Denoising}{34}
